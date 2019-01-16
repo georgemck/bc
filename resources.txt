@@ -1,0 +1,41 @@
+
+
+PHP RESOURCES
+
+PHP Documentation
+http://php.net/docs.php
+
+PHP Classes Website
+https://www.phpclasses.org/
+
+PHP Fundamentals
+https://www.dropbox.com/sh/bo0kxzy86b0kydb/AAC7G99nOMe5V6gHTRsjEXCIa/PHP%20Fundamentals%20-%20RH20140625.zip
+
+PHP Advanced
+https://www.dropbox.com/s/9hdmicog9lpk7i1/PHP%20Advanced%20%E2%80%93%20JK201002.zip
+
+
+
+
+ZEND FRAMEWORK RESOURCES
+
+Getting Started
+http://framework.zend.com/manual/current/en/user-guide/overview.html
+
+Reference Guide
+http://framework.zend.com/manual/current/en/index.html
+
+Webinars 
+http://www.zend.com/en/webinars/recorded/show-by-topic/242_zend+framework
+
+Documentation Files
+https://packages.zendframework.com/releases/ZendFramework-2.3.4/ZendFramework-2.3.4-manual-en.pdf
+
+Download
+http://www.zend.com/en/company/community/framework/downloads
+
+
+
+
+Pro Zend Framework Github
+https://github.com/Apress/pro-zend-framework-techniques
