@@ -39,3 +39,5 @@ http://www.zend.com/en/company/community/framework/downloads
 
 Pro Zend Framework Github
 https://github.com/Apress/pro-zend-framework-techniques
+
+https://akrabat.com/custom-zend_application-resources/
