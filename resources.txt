@@ -41,3 +41,10 @@ Pro Zend Framework Github
 https://github.com/Apress/pro-zend-framework-techniques
 
 https://akrabat.com/custom-zend_application-resources/
+
+Autoloader Namespaces [PSR-0 (absolute path) and PSR-4 (relative path)]
+https://stackoverflow.com/questions/24868586/what-are-the-differences-between-psr-0-and-psr-4
+
+
+
+
